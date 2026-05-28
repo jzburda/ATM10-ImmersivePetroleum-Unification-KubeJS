@@ -1,4 +1,5 @@
-ATM10 Immersive Petroleum Unification
+ATM10 Immersive Petroleum Unification - KubeJS
+ 
 Unifies Immersive Petroleums' Fluids with ATM10.
 This fix does not balance Immersive Petroleum's fluids, only unifies them with the modpack so they work.
 
