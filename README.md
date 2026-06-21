@@ -1,3 +1,5 @@
+**This code is very simple, but I still recommend you read LoonIP.js yourself to see if I injected any malicious code or something**
+
 ATM10 Immersive Petroleum Unification - KubeJS
  
 Unifies Immersive Petroleums' Fluids with ATM10.
